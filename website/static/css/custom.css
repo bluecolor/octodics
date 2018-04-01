@@ -1,0 +1,47 @@
+/* your custom css */
+
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
+
+h2 small,
+p {
+  color: #6c7680;
+  font-family: 'Rubik', sans-serif;
+}
+
+.projectTitle,
+h2 p {
+  font-family: 'Rubik', sans-serif;
+  color: #36414C;
+}
+
+.fixedHeaderContainer {
+  background: #fff;
+}
+
+.navigationSlider .slidingNav ul li a{
+  color: #6c7680 !important;
+}
+
+.navigationSlider .slidingNav ul li a:hover,
+.navigationSlider .slidingNav ul li:hover{
+  background: unset !important;
+  font-weight: 900;
+}
+
+.headerTitle {
+  font-family: 'Rubik', sans-serif;
+  color: #36414C;
+}
