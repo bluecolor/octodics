@@ -80,7 +80,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Download</Button>
+            <Button href="https://github.com/bluecolor/octopus/releases/download/0.12/octopus-0.12.883.tar.gz">Download</Button>
             <Button href="https://github.com/bluecolor/octopus">Source code</Button>
             <Button href={docUrl('doc2.html', language)}>Screenshots</Button>
           </PromoSection>
@@ -130,7 +130,7 @@ const Features = props => (
 const FeatureCallout = props => (
   <div
     className="productShowcaseSection paddingBottom"
-    style={{textAlign: 'center'}}>
+    style={{ textAlign: 'center' }}>
     <h2>Feature Callout</h2>
     <MarkdownBlock>These are features of this project</MarkdownBlock>
   </div>

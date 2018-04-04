@@ -18,14 +18,14 @@ const users = [
 const siteConfig = {
   title: 'Octopus' /* title for your website */,
   tagline: 'Open source task scheduler',
-  url: 'https://facebook.github.io' /* your website url */,
+  url: 'https://bluecolor.github.io/octopus' /* your website url */,
   baseUrl: '/octopus/' /* base url for your project */,
   projectName: 'octopus',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+    {doc: 'doc4', label: 'Rest API'},
     {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    // {blog: true, label: 'Blog'},
   ],
   users,
   /* path to images for header/footer */
