@@ -80,9 +80,9 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="https://github.com/bluecolor/octopus/releases/download/0.12/octopus-0.12.883.tar.gz">Download</Button>
+            <Button href="https://github.com/bluecolor/octopus/releases">Download</Button>
             <Button href="https://github.com/bluecolor/octopus">Source code</Button>
-            <Button href={docUrl('doc2.html', language)}>Screenshots</Button>
+            {/* <Button href={docUrl('doc2.html', language)}>Screenshots</Button> */}
           </PromoSection>
         </div>
       </SplashContainer>

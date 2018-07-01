@@ -67,6 +67,7 @@ To use a different db for repository you need to;
     octopus.datasource.username = my_username
     octopus.datasource.password = my_password
   ```
+- Put related JDBC driver under `$OCTOPUS_HOME/libs/` directory
 - Restart the application
 
 That is it, now your repository resides in the new db you provided.

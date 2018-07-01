@@ -23,7 +23,7 @@ const siteConfig = {
   projectName: 'octopus',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'Rest API'},
+    // {doc: 'doc5', label: 'Rest API'},
     {page: 'help', label: 'Help'},
     // {blog: true, label: 'Blog'},
   ],

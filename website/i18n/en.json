@@ -9,13 +9,13 @@
     "doc2": "Configuration",
     "Repository": "Repository",
     "doc3": "Octopus Shell",
-    "doc4": "Other Document",
-    "doc5": "Fifth Document",
+    "doc4": "Server Port",
+    "doc5": "Introduction",
     "Docs": "Docs",
-    "Rest API": "Rest API",
     "Help": "Help",
     "Octopus": "Octopus",
-    "Configuration": "Configuration"
+    "Configuration": "Configuration",
+    "Rest API": "Rest API"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

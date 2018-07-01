@@ -1,8 +1,9 @@
 {
   "docs": {
     "Octopus": ["doc1"],
-    "Configuration": ["doc2", "doc3"]
+    "Configuration": ["doc2", "doc3", "doc4"]
   },
   "docs-other": {
+    "Rest API": ["doc5"]
   }
 }
